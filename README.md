@@ -5,7 +5,7 @@
 
 一、安装
 
-> go get github.com/sixgad/gorequests
+> go get github.com/gamegrd/gorequests
 
 二、Demo
 
