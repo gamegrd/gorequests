@@ -17,7 +17,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/sixgad/gorequests"
+	"github.com/gamegrd/gorequests"
 )
 
 func main() {
@@ -45,7 +45,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/sixgad/gorequests"
+	"github.com/gamegrd/gorequests"
 )
 
 func main() {
@@ -89,7 +89,7 @@ func main() {
 package main
 
 import (
-	"github.com/sixgad/gorequests"
+	"github.com/gamegrd/gorequests"
 )
 
 func main() {
@@ -106,7 +106,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/sixgad/gorequests"
+	"github.com/gamegrd/gorequests"
 )
 
 func main() {
