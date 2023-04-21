@@ -1,3 +1,3 @@
-module github.com/sixgad/gorequests
+module github.com/gamegrd/gorequests
 
 go 1.18

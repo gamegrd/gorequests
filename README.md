@@ -72,7 +72,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/sixgad/gorequests"
+	"github.com/gamegrd/gorequests"
 )
 
 func main() {
